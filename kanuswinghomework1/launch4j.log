@@ -1,0 +1,866 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.001
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\myapp.exe"
+Args length:	58/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\kanu.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\kanu.exe"
+Args length:	57/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\YOU\Downloads\kanuswinghomework1\kanu.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\YOU\Downloads\kanuswinghomework1\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2007b\bin;C:\Program Files\MATLAB\R2007b\bin\win64;C:\Users\YOU\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jdk-18.0.2.1\bin
+Check launcher:	C:\oraclexe\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MATLAB\R2007b\bin\win64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\YOU\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-18.0.2.1\bin\javac.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\YOU\Downloads\kanuswinghomework1\kanu.exe"
+Args length:	57/32768 chars
+Exit code:	0
