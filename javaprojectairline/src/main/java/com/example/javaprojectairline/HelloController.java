@@ -16,10 +16,21 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+import java.util.Random;
 public class HelloController implements EventHandler<ActionEvent>{
     @FXML
     TextField txt1,txt2,txt3;
+   public double rad(){
+
+    Random det=new Random();
+    double no,cot;
+    no=0;
+    for(cot=1;cot<=5;cot++)
+    {
+        no= det.nextInt(5);
+    }
+   return no;
+   }
 String str1;
 String str2;
 String str3;
@@ -131,16 +142,17 @@ try{
                            ResultSet rs1=stmt1.executeQuery(sql1);
 
     if(rs1.next()){
-
+double a=rad();
+String ss=Double.toString(a);
         String pp=rs1.getString("FLIGHT_NUMBER");
         String dp=rs1.getString("departure_place");
         String des=rs1.getString("destination_place");
         String dpt=rs1.getString("departure_time");
         String art= rs1.getString("arrival_time");
         String dt= rs1.getString("flight_date");
-        ar1.setContentText("your ticket infomation is \n"+str1+" "+dp+" to "+des+" \n"+dpt+" "+art+" "+dt+"\n");
+        ar1.setContentText("your ticket infomation is \n"+str1+" "+dp+" to "+des+" \n"+dpt+" "+art+" "+dt+ss+"\n");
     ar1.showAndWait();
-        String st="Insert into DATATABLE(USERNAME,DEPARTURE_PLACE,DESTINATION_PLACE,DEPARTURE_TIME,ARRIVAL_TIME,FLIGHT_NUMBER) VALUES('" + str1 + "','" + sr + "','"+ sr1 +"','"+dpt+"','"+art+"','"+pp+"')";
+        String st="Insert into DATATABLE(USERNAME,DEPARTURE_PLACE,DESTINATION_PLACE,TICKET_NUMBER,DEPARTURE_TIME,ARRIVAL_TIME,FLIGHT_NUMBER) VALUES('" + str1 + "','" + sr + "','"+ sr1 +"','"+ss+"','"+dpt+"','"+art+"','"+pp+"')";
         stmt1.executeQuery(st);
     }
     else{
